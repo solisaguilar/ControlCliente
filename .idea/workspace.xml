@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a56442c9-377e-422b-850b-b016fc8deff2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ClienteDALTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesoadatos/ClienteDAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accesoadatos/ClienteDAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesoadatos/ComunDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accesoadatos/ComunDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entidadesdenegocio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entidadesdenegocio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfazgrafica/ControlClientes.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfazgrafica/ControlClientes.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logicadenegocio/ClienteBL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logicadenegocio/ClienteBL.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/accesoadatos/ClienteDAL.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/accesoadatos/ComunDB.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/entidadesdenegocio/Cliente.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/logicadenegocio/ClienteBL.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ClienteDALTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2hk07azxDDOnypi8ioShMycPAY6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ClienteDALTest.eliminarTest.executor": "Run",
+    "JUnit.ClienteDALTest.executor": "Run",
+    "JUnit.ClienteDALTest.guardarTest.executor": "Run",
+    "JUnit.ClienteDALTest.modificarTest.executor": "Debug",
+    "JUnit.ClienteDALTest.obtenerDatosFiltradosTest.executor": "Run",
+    "JUnit.ClienteDALTest.obtenerTodosTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ClienteDALTest">
+    <configuration name="ClienteDALTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ControlClientes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteDALTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteDALTest.eliminarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ControlClientes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteDALTest" />
+      <option name="METHOD_NAME" value="eliminarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteDALTest.modificarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ControlClientes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteDALTest" />
+      <option name="METHOD_NAME" value="modificarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteDALTest.obtenerDatosFiltradosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ControlClientes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteDALTest" />
+      <option name="METHOD_NAME" value="obtenerDatosFiltradosTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteDALTest.obtenerTodosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ControlClientes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteDALTest" />
+      <option name="METHOD_NAME" value="obtenerTodosTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteDALTest" />
+        <item itemvalue="JUnit.ClienteDALTest.obtenerDatosFiltradosTest" />
+        <item itemvalue="JUnit.ClienteDALTest.eliminarTest" />
+        <item itemvalue="JUnit.ClienteDALTest.modificarTest" />
+        <item itemvalue="JUnit.ClienteDALTest.obtenerTodosTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56442c9-377e-422b-850b-b016fc8deff2" name="Changes" comment="" />
+      <created>1718122605872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718122605872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
