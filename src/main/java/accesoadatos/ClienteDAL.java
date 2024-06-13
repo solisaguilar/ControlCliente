@@ -37,7 +37,7 @@ public class ClienteDAL {
     public static int guardar(Cliente cliente) throws SQLException{
         int result = 0;
         try {
-            String sql = "INSERT INTO Estudiantes(Codigo, Nombre, Apellido, Carrera) VALUES(?, ?, ?, ?)";
+            String sql = "INSERT INTO Clientes(Nombre, Apellido, Telefono, Direccion ) VALUES(?, ?, ?, ?)";
             Connection conexion = ComunDB.obtenerConexion();
             PreparedStatement ps = ComunDB.crearPreparedStatement(conexion, sql);
             ps.setString(1, cliente.getNombre());
@@ -80,7 +80,7 @@ public class ClienteDAL {
     public static int eliminar(Cliente cliente) throws SQLException{
         int result = 0;
         try {
-            String sql = "DELETE FROM Cliente WHERE Id = ?";
+            String sql = "DELETE FROM Clientes WHERE Id = ?";
             Connection conexion = ComunDB.obtenerConexion();
             PreparedStatement ps = ComunDB.crearPreparedStatement(conexion, sql);
             ps.setInt(1, cliente.getId());
